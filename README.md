@@ -1,9 +1,14 @@
-# Stealth-dave3
-# Hello, I'm CHANGEME
+# Hello, I'm DAVID DICKSON K.
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-dickson-b79834385/)
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/david-dickson-b79834385/))
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+
+
+I specialize in building and securing complex network architectures and monitoring traffic for anomalies. My work focuses on ensuring the confidentiality, integrity, and availability of data as it traverses the wire.
 
 ---
 
