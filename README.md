@@ -1,56 +1,47 @@
-# Hello, I'm DAVID DICKSON K.
-
-<a href="https://www.linkedin.com/in/david-dickson-b79834385"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<a href="https://www.linkedin.com/in/david-dickson-b79834385">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-</a>
+# 👋 Hello, I'm DAVID DICKSON K.
 
 I specialize in building and securing complex network architectures and monitoring traffic for anomalies. My work focuses on ensuring the confidentiality, integrity, and availability of data as it traverses the wire.
 
 ---
 
-## Objective
-[Provide Objective - Remove this afterwards]
+## 🛠️ Tools
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+***Network***
+
+1. Fortigate Firewall
+2. Solar Winds
+3. Wireshark
+
+***Endpoint***
+
+1. Forticlient EMS
+2. Manage Engine
+
+***SIEM***
+
+1. Splunk
+2. Wazuh
 
 ---
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]
-
-| Skill | Associated Project |
-|-------|--------------------|
-| SIEM Implementation and Log Analysis | Detection Lab |
-| Network Traffic Monitoring and Attack Detection | Detection Lab |
-| Security Automation with Shuffle SOAR | SOC Automation Lab |
-| Incident Response Planning and Execution | SOC Automation Lab |
-| Case Management with TheHive | SOC Automation Lab |
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab |
-
----
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]
-
-### Network
-
-
-### Endpoint
-
-
-### SIEM
+## 📑 Certifications
 
 
 ---
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]
+## 🛠️ Projects
 
----
-
-## Projects
-
-- Detection Lab  
+- Active Directory Setup
+- Firewall setup and deployment
+- EMS setup (FortiClient)
+- EMS setup (Manage Engine)
+- Network Monitoring
+- SIEM Splunk
+- SIEM Wazuh
 - SOC Automation Project
+
+## 🔗 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/david-dickson-b79834385/)
+- [X](https://x.com/stealthdave7)
+- [Facebook](https://web.facebook.com/stealthdave7)
