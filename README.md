@@ -31,7 +31,7 @@ I specialize in building and securing complex network architectures and monitori
 
 ## 🛠️ Projects
 
-- Active Directory Setup
+- [Active Directory Setup](https://github.com/Stealth-dav3/Active-Directory-Setup/tree/main)
 - Firewall setup and deployment
 - EMS setup (FortiClient)
 - EMS setup (Manage Engine)
