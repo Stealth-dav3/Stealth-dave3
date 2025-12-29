@@ -1,5 +1,6 @@
 # Hello, I'm DAVID DICKSON K.
 
+<a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white><https://www.linkedin.com/in/david-dickson-b79834385/" /></a>
 
 I specialize in building and securing complex network architectures and monitoring traffic for anomalies. My work focuses on ensuring the confidentiality, integrity, and availability of data as it traverses the wire.
 
